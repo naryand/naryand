@@ -6,7 +6,8 @@ I'm a 4th year Computing Science student at SFU, currently on co-op at NETINT Te
 **Discord** `nar#0510`<br/>
 **Keybase** `naryand`
 
-![Metrics](https://gist.githubusercontent.com/naryand/faa8632393a6fdf47c4400b57a5d1590/raw/3849fccb6f3669aa9e2bbc858d48266abb4beca3/github-metrics.svg)
+<img src="https://gist.githubusercontent.com/naryand/faa8632393a6fdf47c4400b57a5d1590/raw/github-metrics.svg" alt="Metrics" width="100%">
+<!-- ![Metrics](https://gist.githubusercontent.com/naryand/faa8632393a6fdf47c4400b57a5d1590/raw/github-metrics.svg) -->
 <!--
 **naryand/naryand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
