@@ -3,9 +3,9 @@
 I'm a 4th year Computing Science student at SFU, and a previous intern at Citibank and NETINT. I’m interested in systems programming, distributed systems, embedded systems, web backend, as well as being an advocate for the Rust programming language.
 
 ### Contact me on 
-**Discord** [`nar#0510`](https://discordapp.com/users/134013364929036288)<br/>
-**LinkedIn** [`naryan-dhillon`](https://www.linkedin.com/in/naryan-dhillon/) <br/>
-**Keybase** [`naryand`](https://keybase.io/naryand)
+[**Discord**](https://discordapp.com/users/134013364929036288)<br/>
+[**LinkedIn**](https://www.linkedin.com/in/naryan-dhillon/) <br/>
+[**Keybase**](https://keybase.io/naryand)
 
 
 <img src="https://gist.githubusercontent.com/naryand/faa8632393a6fdf47c4400b57a5d1590/raw/github-metrics.svg" alt="Metrics" width="100%">
