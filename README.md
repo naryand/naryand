@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 4th year Computing Science student at SFU, and a previous intern at Citibank and NETINT. I’m interested in systems programming, distributed systems, embedded systems, web backend, as well as being an advocate for the Rust programming language.
+Software Engineer at Citibank, graduated Computing Science student at SFU, previously a Software Engineer Intern at Citibank and NETINT Technologies. I’m interested in systems programming, distributed systems, embedded systems, web backend, as well as being an advocate for the Rust programming language.
 
 ### Contact me on 
 [**Discord**](https://discordapp.com/users/134013364929036288)<br/>
