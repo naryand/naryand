@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Engineer at Citibank, graduated Computing Science student at SFU, previously a Software Engineer Intern at Citibank and NETINT Technologies. I’m interested in systems programming, distributed systems, embedded systems, web backend, as well as being an advocate for the Rust programming language.
+Software Engineer at AWS, graduated from Computing Science at SFU, previously at Citibank, after interning there and NETINT Technologies. I’m interested in systems programming, distributed systems, embedded systems, web backend, as well as being an advocate for the Rust programming language.
 
 ### Contact me on 
 [**Discord**](https://discordapp.com/users/134013364929036288)<br/>
